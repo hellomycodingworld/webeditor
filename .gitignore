@@ -1,0 +1,14 @@
+/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.class
+.jar
+.war
+
+
+# Maven
+log/
+target/
